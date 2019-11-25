@@ -1,7 +1,7 @@
 <?php
 // used to connect to the database
 $host = "localhost";
-$db_name = "php_crud";
+$db_name = "bugtrackr";
 $username = "root";
 $password = "";
   

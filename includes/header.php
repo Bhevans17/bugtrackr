@@ -20,7 +20,7 @@
                     </a>
                     <ul class="nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="create_account.php">Create Account</a>
+                            <a class="nav-link" href="./create_account.php">Create Account</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="login.php">Login</a>
