@@ -1,11 +1,11 @@
 <?php include 'includes/header.php'; ?>
 
 
-<div class="container mt-5">
+<div class="container">
     <div class="row">
-        <div class="col-md-4 offset-md-4 mt-5">
-        <h1>Login</h1>
-            <form class="mt-5" id="login-form" action="">
+        <div class="col-md-4 offset-md-4">
+            <h1>Login</h1>
+            <form id="login-form" action="">
                 <div class="form-group">
                     <label for="email">Email:</label>
                     <input id="email" class="form-control" type="email">

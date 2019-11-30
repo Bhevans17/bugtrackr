@@ -1,0 +1,31 @@
+/************************** MAIN **************************/
+#main {
+  overflow: hidden;
+}
+
+#main .row {
+  padding: 10% 2.5%;
+}
+
+/************************** ABOUT US **************************/
+#about-us .row {
+  padding: 10% 2.5%;
+}
+
+/************************** CARDS **************************/
+#cards {
+  text-align: center;
+}
+
+#cards .row {
+  padding: 10% 2.5%;
+}
+
+#cards i {
+  font-size: 4vw;
+  padding: 20px;
+}
+
+.card {
+  padding: 50px;
+}

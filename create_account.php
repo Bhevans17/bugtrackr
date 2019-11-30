@@ -1,12 +1,10 @@
 <?php include 'includes/header.php'; ?>
 
-
-
-<div class="container mt-5">
+<div class="container">
     <div class="row">
         <div class="col-md-4 offset-md-4">
             <h1>Create Account</h1>
-            <form class="mt-5" id="create-account-form" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
+            <form id="create-account-form" method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
                 <div class="form-group">
                     <label for="firstname">First Name:</label>
                     <input id="firstname" class="form-control" type="text" required></input>
@@ -24,8 +22,8 @@
                     <input id="password" class="form-control" type="password" required></input>
                 </div>
                 <div class="form-group">
-                    <label for="repassword">Re-Enter Password:</label>
-                    <input id="repassword" class="form-control" type="password"></input>
+                    <label for="re-enter-password">Re-Enter Password:</label>
+                    <input id="re-enter-password" class="form-control" type="password"></input>
                 </div>
                 <button class="btn btn-primary">Submit</button>
             </form>
