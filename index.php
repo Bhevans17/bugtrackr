@@ -1,7 +1,7 @@
-<?php include 'includes/header.php' ?>
+<?php include './includes/header.php' ?>
 
 <!-- Main Content -->
-<div id="main" class="container mb-5">
+<div id="main" class="container my-5">
     <div class="row align-items-center">
         <div class="col-md-6">
             <main>
@@ -18,7 +18,7 @@
 </div>
 
 <!-- About Us -->
-<div id="about-us" class="container mb-5">
+<div id="about-us" class="container my-5">
     <div class="row align-items-center">
         <div class="col-md-6">
             <img class="img-fluid" src="./img/img1.svg" alt="A person chatting with a robot">
@@ -31,14 +31,14 @@
 </div>
 
 <!-- Cards -->
-<div id="cards" class="container mb-5">
+<div id="cards" class="container my-5">
     <div class="row align-items-center">
         <div class="col-md-4">
             <div class="card">
                 <i class="fas fa-cogs"></i>
                 <div class="card-body">
                     <h5 class="card-title">Plan Your Projects</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim, qui! Eos, minima. Tempora nulla tenetur nostrum aut? Doloremque, reiciendis quos totam eos, provident perspiciatis soluta eaque, iure aliquid omnis voluptates!</p>
                 </div>
             </div>
         </div>
@@ -47,7 +47,7 @@
                 <i class="fas fa-desktop"></i>
                 <div class="card-body">
                     <h5 class="card-title">Track Your Progress</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro necessitatibus et fugiat iusto recusandae. Incidunt, magnam! Dolorem, ut reprehenderit soluta porro veritatis odio consequatur voluptatem ipsam accusamus ipsum blanditiis error.</p>
                 </div>
             </div>
         </div>
@@ -56,11 +56,11 @@
                 <i class="far fa-keyboard"></i>
                 <div class="card-body">
                     <h5 class="card-title">Get Work Done</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint esse illum fuga sapiente mollitia, dolore iste suscipit ipsam, reiciendis minus quis quisquam beatae animi officiis explicabo! Blanditiis vero iste amet!</p>
                 </div>
             </div>
         </div>
     </div>
 </div>
 
-<?php include 'includes/footer.php' ?>
+<?php include './includes/footer.php' ?>

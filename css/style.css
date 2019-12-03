@@ -1,18 +1,4 @@
-/************************** MAIN **************************/
-#main {
-  overflow: hidden;
-}
-
-#main .row {
-  padding: 10% 2.5%;
-}
-
-/************************** ABOUT US **************************/
-#about-us .row {
-  padding: 10% 2.5%;
-}
-
-/************************** CARDS **************************/
+/************************** INDEX **************************/
 #cards {
   text-align: center;
 }
@@ -28,4 +14,32 @@
 
 .card {
   padding: 50px;
+}
+
+/************************** CREATE PROJECT **************************/
+.create-project-nav {
+  display: block;
+  text-align: right;
+}
+
+/************************** DASHBOARD **************************/
+#nav-icons {
+  text-align: left;
+}
+
+#nav-links {
+  text-align: right;
+}
+
+#project-title {
+  display: block;
+  text-align: center;
+}
+#table-wrapper h2 {
+  text-align: center;
+}
+
+#table-wrapper table {
+  border: 1px solid black;
+  width: 100%;
 }

@@ -1,12 +1,15 @@
 <?php
-$servername = "localhost";
+// used to connect to the database
+$host = "localhost";
+$db_name = "bugtrackr";
 $username = "root";
 $password = "";
-
-// Create connection
-$conn = new mysqli($servername, $username, $password);
-
-// Check connection
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
+  
+try {
+    $con = new PDO("mysql:host={$host};dbname={$db_name}", $username, $password);
+}
+  
+// show error
+catch(PDOException $exception){
+    echo "Connection error: " . $exception->getMessage();
 }
