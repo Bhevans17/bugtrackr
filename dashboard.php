@@ -31,7 +31,7 @@
     </div>
 </div>
 
-<div id="table-wrapper" class="container-fluid mt-5">
+<div id="table-wrapper" class="container mt-5">
     <div class="row">
         <div class="col-12 col-md-6">
             <div class="table-options">

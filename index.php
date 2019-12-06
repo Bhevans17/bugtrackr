@@ -1,7 +1,7 @@
 <?php include './includes/header.php' ?>
 
 <!-- Main Content -->
-<div id="main" class="container my-5">
+<div id="main" class="container mb-5">
     <div class="row align-items-center">
         <div class="col-md-6">
             <main>
@@ -18,7 +18,7 @@
 </div>
 
 <!-- About Us -->
-<div id="about-us" class="container my-5">
+<div id="about-us" class="container mb-5">
     <div class="row align-items-center">
         <div class="col-md-6">
             <img class="img-fluid" src="./img/img1.svg" alt="A person chatting with a robot">
@@ -31,7 +31,7 @@
 </div>
 
 <!-- Cards -->
-<div id="cards" class="container my-5">
+<div id="cards" class="container mb-5">
     <div class="row align-items-center">
         <div class="col-md-4">
             <div class="card">
