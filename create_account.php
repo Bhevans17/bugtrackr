@@ -5,6 +5,7 @@
         <div class="col-md-4 offset-md-4">
             <h1>Create Account</h1>
             <form id="create-account-form" method="post" action="authenticate.php">
+                <?php include('errors.php'); ?>
                 <div class="form-group">
                     <label for="email">Email:</label>
                     <input name="email" id="email" class="form-control" type="email" required></input>
