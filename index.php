@@ -31,7 +31,7 @@
 </div>
 
 <!-- Cards -->
-<div id="cards" class="container my-5">
+<div id="cards" class="container myg-5">
     <div class="row align-items-center">
         <div class="col-md-4">
             <div class="card">
