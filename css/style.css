@@ -1,10 +1,25 @@
 /************************** INDEX **************************/
+#main {
+  display: flex;
+  align-items: center;
+  height: 60vh;
+}
+
+#about-us {
+  display: flex;
+  align-items: center;
+  height: 60vh;
+}
+
 #cards {
+  display: flex;
+  align-items: center;
+  height: 60vh;
   text-align: center;
 }
 
 #cards .row {
-  padding: 10% 2.7%;
+  padding: 10% 2.6%;
 }
 
 #cards i {
