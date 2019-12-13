@@ -18,7 +18,7 @@
 </div>
 
 <!-- About Us -->
-<div id="about-us" class="container my-5">
+<div data-aos="fade-up" data-aos-anchor-placement="top-center" id="about-us" class="container my-5">
     <div class="row align-items-center">
         <div class="col-md-6">
             <img class="img-fluid" src="./img/img1.svg" alt="A person chatting with a robot">
@@ -31,7 +31,7 @@
 </div>
 
 <!-- Cards -->
-<div id="cards" class="container my-5">
+<div data-aos="fade-up" data-aos-anchor-placement="top-center" id="cards" class="container my-5">
     <div class="row align-items-center">
         <div class="col-md-4">
             <div class="card">
