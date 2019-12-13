@@ -38,7 +38,7 @@
                 <i class="fas fa-cogs"></i>
                 <div class="card-body">
                     <h5 class="card-title">Plan Your Projects</h5>
-                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim, qui! Eos, minima. Tempora nulla tenetur nostrum aut? Doloremque, reiciendis quos totam eos, provident perspiciatis soluta eaque, iure aliquid omnis voluptates!</p>
+                    <p class="card-text">Lorem , dolor sit amet consectetur adipisicing elit. Enim, qui! Eos, minima. Tempora nulla tenetur nostrum aut? Doloremque, reiciendis quos totam eos, provident perspiciatis soluta eaque, iure aliquid omnis voluptates!</p>
                 </div>
             </div>
         </div>
