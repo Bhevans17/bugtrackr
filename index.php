@@ -66,4 +66,16 @@
     </div>
 </div>
 
+<footer class="mt-5" id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h6>&copy; 2020 All Rights Reserved.</h6>
+            </div>
+        </div>
+    </div>
+</footer>
+</div>
+
+
 <?php include './includes/footer.php' ?>
