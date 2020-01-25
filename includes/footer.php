@@ -2,20 +2,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <ul class="nav">
-                        <li class="nav-item">
-                            <a class="nav-link" href="#"><i class="fab fa-facebook-f"></i></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#"><i class="fab fa-twitter"></i></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#"><i class="fab fa-instagram"></i></a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-md-12">
-                    <h6>&copy; 2019 All Rights Reserved.</h6>
+                    <h6>&copy; 2020 All Rights Reserved.</h6>
                 </div>
             </div>
         </div>
