@@ -35,7 +35,7 @@
     <div class="row">
         <div class="col-md-4">
             <div class="card">
-                <img src="./img/img1.svg" class="card-img-top" alt="...">
+                <img src="./img/plan.svg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <i class="fas fa-cogs"></i>
                     <h5 class="card-title">Plan Projects</h5>
@@ -45,7 +45,7 @@
         </div>
         <div class="col-md-4">
             <div class="card">
-                <img src="./img/img1.svg" class="card-img-top" alt="...">
+                <img src="./img/track-progress.svg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <i class="fas fa-desktop"></i>
                     <h5 class="card-title">Track Progress</h5>
@@ -55,7 +55,7 @@
         </div>
         <div class="col-md-4">
             <div class="card">
-                <img src="./img/img1.svg" class="card-img-top" alt="...">
+                <img src="./img/workdone.svg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <i class="far fa-keyboard"></i>
                     <h5 class="card-title">Get Work Done</h5>
