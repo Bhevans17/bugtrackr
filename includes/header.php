@@ -18,7 +18,7 @@
                 <div class="col-md-12">
                     <nav class="navbar">
                         <a class="navbar-brand" href="index.php">
-                            <i class="fas fa-bug"></i>&nbsp;BugTrackr
+                            <i class="fas fa-spider"></i>&nbsp;<span class="trackr">BUG</span>TRACKR
                         </a>
                         <ul class="nav ml-auto">
                             <li class="nav-item">

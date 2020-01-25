@@ -6,7 +6,7 @@
         <div class="col-md-6">
             <main>
                 <h1>BugTrackr</h1>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita iste totam perspiciatis cupiditate nemo quia dignissimos maxime ipsa ducimus esse, consectetur alias, exercitationem reiciendis saepe distinctio temporibus veritatis! Laboriosam, officia!</p>
+                <p>A custom bugtracking application built for developers from a fellow developer.</p>
                 <a href="create_account.php" class="btn btn-primary">Create Account</a>
                 <a href="login.php" class="btn btn-outline-primary">Login</a>
             </main>
@@ -24,8 +24,8 @@
             <img class="img-fluid" src="./img/img1.svg" alt="A person chatting with a robot">
         </div>
         <div class="col-md-6">
-            <h2>About Us</h2>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita iste totam perspiciatis cupiditate nemo quia dignissimos maxime ipsa ducimus esse, consectetur alias, exercitationem reiciendis saepe distinctio temporibus veritatis! Laboriosam, officia!</p>
+            <h2>About Me</h2>
+            <p>Self taught developer who loves tech. I built this app for fun hopefully you can get some use out of it too!</p>
         </div>
     </div>
 </div>

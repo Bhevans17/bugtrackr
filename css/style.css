@@ -12,6 +12,9 @@ html {
   }
 }
 
+.trackr {
+  color: #b5b7bb;
+}
 /************************** INDEX **************************/
 #main {
   display: flex;
