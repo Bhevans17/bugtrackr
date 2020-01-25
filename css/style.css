@@ -25,24 +25,8 @@ html {
   height: 60vh;
 }
 
-#cards {
-  display: flex;
-  align-items: center;
-  height: 60vh;
+#card-wrapper {
   text-align: center;
-}
-
-#cards .row {
-  padding: 10% 2.6%;
-}
-
-#cards i {
-  font-size: 4.5vw;
-  padding: 20px;
-}
-
-.card {
-  padding: 50px;
 }
 
 /************************** CREATE PROJECT **************************/

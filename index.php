@@ -31,32 +31,35 @@
 </div>
 
 <!-- Cards -->
-<div data-aos="fade-up" data-aos-anchor-placement="top-center" id="cards" class="container my-5">
-    <div class="row align-items-center">
+<div data-aos="fade-up" data-aos-anchor-placement="top-center" id="card-wrapper" class="container">
+    <div class="row">
         <div class="col-md-4">
             <div class="card">
-                <i class="fas fa-cogs"></i>
+                <img src="./img/img1.svg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Plan Your Projects</h5>
-                    <p class="card-text">Lorem , dolor sit amet consectetur adipisicing elit. Enim, qui! Eos, minima. Tempora nulla tenetur nostrum aut? Doloremque, reiciendis quos totam eos, provident perspiciatis soluta eaque, iure aliquid omnis voluptates!</p>
+                    <i class="fas fa-cogs"></i>
+                    <h5 class="card-title">Plan Projects</h5>
+                    <p class="card-text">Lorem , dolor sit amet consectetur</p>
                 </div>
             </div>
         </div>
         <div class="col-md-4">
             <div class="card">
-                <i class="fas fa-desktop"></i>
+                <img src="./img/img1.svg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Track Your Progress</h5>
-                    <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro necessitatibus et fugiat iusto recusandae. Incidunt, magnam! Dolorem, ut reprehenderit soluta porro veritatis odio consequatur voluptatem ipsam accusamus ipsum blanditiis error.</p>
+                    <i class="fas fa-desktop"></i>
+                    <h5 class="card-title">Track Progress</h5>
+                    <p class="card-text">Lorem ipsum dolor sit amet consectetur</p>
                 </div>
             </div>
         </div>
         <div class="col-md-4">
             <div class="card">
-                <i class="far fa-keyboard"></i>
+                <img src="./img/img1.svg" class="card-img-top" alt="...">
                 <div class="card-body">
+                    <i class="far fa-keyboard"></i>
                     <h5 class="card-title">Get Work Done</h5>
-                    <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint esse illum fuga sapiente mollitia, dolore iste suscipit ipsam, reiciendis minus quis quisquam beatae animi officiis explicabo! Blanditiis vero iste amet!</p>
+                    <p class="card-text">Lorem ipsum dolor sit amet consectetur</p>
                 </div>
             </div>
         </div>
