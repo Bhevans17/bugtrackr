@@ -12,10 +12,11 @@ html {
   }
 }
 
+/************************** INDEX **************************/
 .trackr {
   color: #b5b7bb;
 }
-/************************** INDEX **************************/
+
 #main {
   display: flex;
   align-items: center;
@@ -47,6 +48,16 @@ html {
 
 #card-wrapper .card p {
   color: grey;
+}
+/************************** CREATE ACCOUNT **************************/
+#create-account-wrapper h1 {
+  text-align: center;
+}
+
+#create-account-form {
+  margin: 0 auto;
+  display: block;
+  width: 70%;
 }
 /************************** CREATE PROJECT **************************/
 .create-project-nav {
