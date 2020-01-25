@@ -21,7 +21,7 @@
 <div data-aos="fade-up" data-aos-anchor-placement="top-center" id="about-us" class="container my-5">
     <div class="row align-items-center">
         <div class="col-md-6">
-            <img class="img-fluid" src="./img/img1.svg" alt="A person chatting with a robot">
+            <img class="img-fluid" src="./img/about.svg" alt="A person chatting with a robot">
         </div>
         <div class="col-md-6">
             <h2>About Me</h2>
