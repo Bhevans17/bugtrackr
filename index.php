@@ -39,7 +39,7 @@
                 <div class="card-body">
                     <i class="fas fa-cogs"></i>
                     <h5 class="card-title">Plan Projects</h5>
-                    <p class="card-text">Lorem , dolor sit amet consectetur</p>
+                    <p class="card-text">See what needs to be done.</p>
                 </div>
             </div>
         </div>
@@ -49,7 +49,7 @@
                 <div class="card-body">
                     <i class="fas fa-desktop"></i>
                     <h5 class="card-title">Track Progress</h5>
-                    <p class="card-text">Lorem ipsum dolor sit amet consectetur</p>
+                    <p class="card-text">See how it's coming together.</p>
                 </div>
             </div>
         </div>
@@ -59,7 +59,7 @@
                 <div class="card-body">
                     <i class="far fa-keyboard"></i>
                     <h5 class="card-title">Get Work Done</h5>
-                    <p class="card-text">Lorem ipsum dolor sit amet consectetur</p>
+                    <p class="card-text">Finish everything on time.</p>
                 </div>
             </div>
         </div>

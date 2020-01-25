@@ -32,6 +32,22 @@ html {
   text-align: center;
 }
 
+#card-wrapper .card img {
+  height: 200px;
+}
+
+#card-wrapper .card {
+  height: 500px;
+}
+
+#card-wrapper .card i {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+#card-wrapper .card p {
+  color: grey;
+}
 /************************** CREATE PROJECT **************************/
 .create-project-nav {
   display: block;
