@@ -5,8 +5,8 @@
     <div class="row align-items-center">
         <div class="col-md-6">
             <main>
-                <h1>BugTrackr</h1>
-                <p>A custom bugtracking application built for developers from a fellow developer.</p>
+                <h1>Track Your Bugs!</h1>
+                <p>A custom bug tracking application built for developers from a fellow developer.</p>
                 <a href="create_account.php" class="btn btn-primary">Create Account</a>
                 <a href="login.php" class="btn btn-outline-primary">Login</a>
             </main>
