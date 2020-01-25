@@ -49,6 +49,10 @@ html {
 #card-wrapper .card p {
   color: grey;
 }
+
+#footer {
+  text-align: center;
+}
 /************************** CREATE ACCOUNT **************************/
 #create-account-wrapper h1 {
   text-align: center;
