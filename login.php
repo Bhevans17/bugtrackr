@@ -1,9 +1,8 @@
 <?php include './includes/header.php'; ?>
 
-
-<div class="container my-5">
+<div id="login-wrapper" class="container my-5">
     <div class="row">
-        <div class="col-md-4 offset-md-4">
+        <div class="col-md-12">
             <h1>Login</h1>
             <form id="login-form" action="">
                 <div class="form-group">

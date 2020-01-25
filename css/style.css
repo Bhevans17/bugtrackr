@@ -59,6 +59,17 @@ html {
   display: block;
   width: 70%;
 }
+
+/************************** LOGIN **************************/
+#login-wrapper h1 {
+  text-align: center;
+}
+
+#login-form {
+  width: 70%;
+  display: block;
+  margin: 0 auto;
+}
 /************************** CREATE PROJECT **************************/
 .create-project-nav {
   display: block;
