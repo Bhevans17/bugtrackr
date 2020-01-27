@@ -18,7 +18,7 @@
             <div class="col-md-12">
                 <div class="container">
                     <nav class="navbar navbar-expand-lg navbar-light">
-                        <span class="navbar-brand"><i class="fas fa-spider"></i>&nbsp;Dashboard</span>
+                        <a href="#" class="navbar-brand"><i class="fas fa-spider"></i>&nbsp;Dashboard</a>
                         <button class="navbar-toggler" data-target="#navbarSupportedContent" aria-lable="Toggle navigation" type="button" aria-expanded="false" data-toggle="collapse">
                             <span class="navbar-toggler-icon"></span>
                         </button>
@@ -57,7 +57,24 @@
                         </nav>
                     </section>
                 </div>
-                <div class="col-md-8 bg-light">asdf</div>
+                <div class="col-md-8 bg-light">
+                    <div class="container">
+                        <div class="row text-center">
+                            <div class="col-md-6">
+                                <h1>Section</h1>
+                            </div>
+                            <div class="col-md-6">
+                                <h1>Section</h1>
+                            </div>
+                            <div class="col-md-6">
+                                <h1>Section</h1>
+                            </div>
+                            <div class="col-md-6">
+                                <h1>Section</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
