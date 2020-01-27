@@ -5,74 +5,56 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link href="./css/style.css" type="text/css" rel="stylesheet">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <title>BugTrackr | Built For Developers</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href="./css/dashboard.css" type="text/css" rel="stylesheet">
+    <title>BugTrackr | Dashboard</title>
 </head>
 
-<div id="dashboard-nav" class="container">
-    <div class="row">
-        <div id="nav-icons" class="col-6">
-            <i class="far fa-user"></i>
-            <i class="fas fa-bell"></i>
-            <i class="fas fa-users"></i>
-        </div>
-        <div id="nav-links" class=" col-6">
-            <a href="#">Logout</a>
-        </div>
-    </div>
-</div>
-<div class="container">
-    <div class="row mt-5">
-        <div id="project-title" class="col-md-4 offset-md-4">
-            <h1>PROJECT NAME</h1>
-            <a class="btn btn-primary" href="">ADD ISSUE</a>
-        </div>
-    </div>
-</div>
+<body>
+    <!-- Dashboard-->
+    <!-- Navigation Bar -->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <nav class="navbar navbar-expand-lg navbar-light">
+                    <span class="navbar-brand"><i class="fas fa-spider"></i>&nbsp;Dashboard</span>
+                    <button class="navbar-toggler" data-target="#navbarSupportedContent" aria-lable="Toggle navigation"
+                        type="button" aria-expanded="false" data-toggle="collapse">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
 
-<div id="table-wrapper" class="container mt-5">
-    <div class="row">
-        <div class="col-12 col-md-6">
-            <div class="table-options">
-                <h2>My Issues</h2>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item">
+                                <a href="" class="nav-link">
+                                    <i class="fas fa-user"></i>&nbsp;Username
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
             </div>
-            <table class="table table-hover">
-                <thead class="thead-dark">
-                    <tr>
-                        <th scope="col">Key</th>
-                        <th scope="col">Subject</th>
-                        <th scope="col">Priority</th>
-                        <th scope="col">Status</th>
-                        <th scope="col">Due</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td scope="row">1</td>
-                        <td>Pir</td>
-                        <td>Smith</td>
-                        <td>50</td>
-                        <td>Smith</td>
-                    </tr>
-                </tbody>
-            </table>
         </div>
-        <div class="col-12 col-md-6">
-            <h2>Recent Updates</h2>
-            <ul>
-                <li>
-                    <h4>DEC 03 2019</h4>
-                    <hr>
-                    <i class="far fa-user mt-3 mr-3"></i>
-                    <p>USER added a new COMMENT/ISSUE</p>
-                    <p>PROJECT NAME</p>
-                    <p>COMMENT NAME</p>
-                </li>
-            </ul>
+    </div>
+    <!-- Main Section-->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4">asdf</div>
+            <div class="col-md-8">asdf</div>
         </div>
-
     </div>
 
+    <script src="https://kit.fontawesome.com/b836e57116.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+</body>
 
-    <?php include "./includes/footer.php"; ?>
+</html>

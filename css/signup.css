@@ -1,0 +1,9 @@
+#signup {
+  height: 70vh;
+  align-items: center;
+  display: flex;
+}
+
+.fa-arrow-circle-left {
+  font-size: 2.5em;
+}

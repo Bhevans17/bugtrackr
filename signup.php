@@ -7,24 +7,29 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link href="./css/login.css" type="text/css" rel="stylesheet">
-    <title>BugTrackr | Login</title>
+    <link href="./css/signup.css" type="text/css" rel="stylesheet">
+    <title>BugTrackr | Sign Up</title>
 </head>
 
 <body>
-    <!-- Login Form -->
-    <section id="login">
+    <!-- Sign Up Form -->
+    <section id="signup">
         <div class="container">
             <div class="row w-50 mx-auto">
                 <div class="col-md-12 mb-5">
                     <a href="index.html"><i class="fas fa-arrow-circle-left"></i></a>
                 </div>
                 <div class="col-md-12">
-                    <h1>Login</h1>
+                    <h1>Sign Up</h1>
                     <form>
                         <div class="row pt-3">
                             <div class="col">
                                 <input class="form-control" type="text" placeholder="Username">
+                            </div>
+                        </div>
+                        <div class="row pt-3">
+                            <div class="col">
+                                <input class="form-control" type="email" placeholder="Email">
                             </div>
                         </div>
                         <div class="row pt-3">
@@ -34,23 +39,17 @@
                         </div>
                         <div class="row pt-3">
                             <div class="col">
-                                <button class="btn btn-primary w-100">Login</button>
+                                <input class="form-control" type="text" placeholder="Confirm Password">
                             </div>
                         </div>
                         <div class="row pt-3">
                             <div class="col">
-                                <div class="form-group form-check">
-                                    <input type="checkbox" class="form-check-input" id="rememberme">
-                                    <label class="form-check-label" for="rememberme">Remember Me</label>
-                                </div>
+                                <button class="btn btn-primary w-100">Sign Up</button>
                             </div>
                         </div>
                         <div class="row pt-3">
                             <div class="col">
-                                <a href="signup.html">Sign Up</a>
-                            </div>
-                            <div class="col text-right">
-                                <a href="#">Forgot Your Password?</a>
+                                <a class="btn btn-outline-primary w-100" href="login.html">Already Have an Account?</a>
                             </div>
                         </div>
                     </form>
