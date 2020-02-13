@@ -34,6 +34,7 @@
                                         <a class="dropdown-item" href="#">Another action</a>
                                         <div class="dropdown-divider"></div>
                                         <a class="dropdown-item" href="#">Something else here</a>
+                                        <a class="dropdown-item" href="#">Another action</a>
                                     </div>
                                 </li>
                             </ul>
@@ -47,41 +48,37 @@
     <section id="main-section">
         <div class="container-fluid h-100">
             <div class="row justify-content-center h-100">
-                <div class="col-md-4 bg-dark">
-                    <section id="dashboard-side-menu">
-                        <nav class="nav flex-column">
-                            <a class="nav-link active" href="#">Active</a>
-                            <a class="nav-link" href="#">Link</a>
-                            <a class="nav-link" href="#">Link</a>
-                            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                <div class="col-md-1 bg-dark">
+                    <section id="dashboard-side-menu te">
+                        <nav class="nav flex-column text-left">
+                            <a class="nav-link text-white" href="#"><i class="fas fa-home"></i> HOME</a>
+                            <a class="nav-link text-white" href="#"><i class="far fa-plus-square"></i> ADD ISSUE</a>
+                            <a class="nav-link text-white" href="#"><i class="fas fa-list"></i> ISSUES</a>
+                            <a class="nav-link text-white" href="#"><i class="fas fa-cogs"></i> SETTINGS</a>
                         </nav>
                     </section>
                 </div>
-                <div class="col-md-8 bg-light">
+
+                <!-- Main Section Cards -->
+                <div class="col-md-11 bg-light">
                     <div class="container">
-                        <div class="row text-center">
-                            <div class="col-md-6">
-                                <h1>Section</h1>
-                            </div>
-                            <div class="col-md-6">
-                                <h1>Section</h1>
-                            </div>
-                            <div class="col-md-6">
-                                <h1>Section</h1>
-                            </div>
-                            <div class="col-md-6">
-                                <h1>Section</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <script src="https://kit.fontawesome.com/b836e57116.js" crossorigin="anonymous"></script>
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+                        <div class="row my-5">
+                            <div class="col-md-12">
+                                <div class="card">
+                                    <div class="card-header">
+                                        Monday Jan. 28, 2020
+                                    </div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">Brenden Evans Added a <span class="badge badge-success">issue</span></h5>
+                                        <span class="badge badge-danger">FitnessHelper</span>
+                                        <p>Create new navigation bar.</p>
+                                        <p class="text-secondary">Please add a search bar/functionality.</p>
+                                    </div>
+                                </div </div> </div> </div> </div> </div> </div> </section> <script src="https://kit.fontawesome.com/b836e57116.js" crossorigin="anonymous">
+                                </script>
+                                <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+                                <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+                                <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 </body>
 
 </html>
